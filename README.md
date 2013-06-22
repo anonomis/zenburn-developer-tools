@@ -1,9 +1,9 @@
 ZenburnDeveloperTools
 =================================
 
-Zenburn theme for Chrome Developer Tools
+Zenburn theme for Chrome Developer Tools.
 
-### How to install Obsidian theme into Chrome
+### How to install Zenburn theme into Chrome
 
 Copy Custom.css into:
 
